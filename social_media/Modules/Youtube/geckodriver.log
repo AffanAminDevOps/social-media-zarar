@@ -1,0 +1,23 @@
+1700743458670	geckodriver	INFO	Listening on 127.0.0.1:52397
+1700743460670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "523 ... remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\3\\rust_mozprofilekYeHgm"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700743461058	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700743461146	Marionette	INFO	Listening on port 52406
+WebDriver BiDi listening on ws://127.0.0.1:52398
+Read port: 52406
+1700743461369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52398/devtools/browser/cda356a9-b1d2-48e2-bb79-0afcf539bdbf
+1700743491705	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1700743571998	Marionette	INFO	Stopped listening on port 52406
+JavaScript warning: https://www.youtube.com/s/desktop/bd3558ba/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 1668: Script terminated by timeout at:
+c@https://www.youtube.com/s/desktop/bd3558ba/jsbin/desktop_polymer.vflset/desktop_polymer.js:1668:122
+e@https://www.youtube.com/s/desktop/bd3558ba/jsbin/desktop_polymer.vflset/desktop_polymer.js:1677:371
+
+Dynamically enable window occlusion 1
+JavaScript error: https://www.youtube.com/results?search_query=ICC%20ranking, line 12: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/4MIqMSIrIBa2Tlo-FocJvTtTVUJhKzKWK9rP7XHIhmA.js line 2 > eval, line 767: TypeError: can't access dead object
